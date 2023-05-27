@@ -1,5 +1,15 @@
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\avcodec-53.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\avdevice-53.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\avfilter-2.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\avformat-53.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\avutil-51.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\postproc-52.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\swresample-0.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\swscale-2.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\haarcascade_frontalface_alt_tree.xml
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ProcesamientoDeImagenes.exe.config
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ProcesamientoDeImagenes.exe.manifest
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ProcesamientoDeImagenes.application
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ProcesamientoDeImagenes.exe
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ProcesamientoDeImagenes.pdb
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\AForge.Controls.dll
@@ -28,6 +38,7 @@ C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\Emgu.CV.UI.GL.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\Emgu.CV.World.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.GLControl.dll
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ZedGraph.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\AForge.xml
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\AForge.Controls.xml
@@ -55,6 +66,7 @@ C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.pdb
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.xml
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.GLControl.pdb
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\OpenTK.GLControl.xml
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\System.Diagnostics.DiagnosticSource.xml
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\ZedGraph.xml
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\de\ZedGraph.resources.dll
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\bin\Release\es\ZedGraph.resources.dll
@@ -78,6 +90,8 @@ C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeIm
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.WebcamControl.resources
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.csproj.GenerateResource.cache
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.csproj.CoreCompileInputs.cache
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.exe.manifest
+C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.application
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.csproj.CopyComplete
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.exe
 C:\Users\Zeal\source\repos\ProcesamientoDeImagenes\obj\Release\ProcesamientoDeImagenes.pdb

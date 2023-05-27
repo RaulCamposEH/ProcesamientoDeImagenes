@@ -362,10 +362,10 @@ namespace ProcesamientoDeImagenes
                         pbPreview.Image = (Bitmap)eventArgs.Frame.Clone();
                         break;
                     case 7:
-                        pbPreview.Image = Filters.ConvertToGrayscale(bitmap);
+                        pbPreview.Image = Gray.Apply(bitmap);
                         break;
                     case 8:
-                        pbPreview.Image = Filters.InvertImage(bitmap);
+                        pbPreview.Image = invert.Apply(bitmap);
                         break;
                     case 9:
                         pbPreview.Image = Filters.Convolve(bitmap, Filters.GaussianBlur(5, 5.4));
@@ -460,7 +460,7 @@ namespace ProcesamientoDeImagenes
         private void FilterControl_Leave(object sender, EventArgs e)
         {
             cleanImg();
-            if(videoSource != null) videoSource.Source = null;
+            if(VideoLoaded) videoSource.Source = null;
             framesList.Clear();
         }
     }
